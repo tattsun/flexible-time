@@ -2,9 +2,9 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                flexible-time
-version:             0.1.0.2
-synopsis:            Flexible time library.
--- description:
+version:             0.1.0.3
+synopsis:            simple extension of Data.UnixTime.
+description:         simple extension of Data.UnixTime.
 license:             MIT
 license-file:        LICENSE
 author:              tattsun
